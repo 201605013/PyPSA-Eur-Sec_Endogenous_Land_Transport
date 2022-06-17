@@ -666,5 +666,5 @@ plotting:
     ICEV: '#000000'
     EV: '#000000'
     land transport: '#000000'
-    land transport ICEV: '#000000'
-    land transport EV: '#000000'
+    land transport ICEV: '#565753'
+    land transport EV: '#baf238'
