@@ -662,7 +662,7 @@ plotting:
     gas-to-power/heat: '#ee8340'
     waste: '#e3d37d'
     other: '#000000'
-    # transport added (colors not specified yet.)
+    # transport added
     ICEV: '#000000'
     EV: '#000000'
     land transport: '#000000'
