@@ -182,7 +182,7 @@ sector:
     2040: 0 # 0.1462
     2045: 0
     2050: 0 # 0.15
-  endogenous_transport: false # Should electrification of the transport sector be endogenous (true) or exogenous (false)?
+  endogenous_transport: true # Should electrification of the transport sector be endogenous (true) or exogenous (false)?
   land_transport_electric_share: # 1 means all EVs
     2020: 0
     2025: 0.0130
